@@ -1,0 +1,9 @@
+#header.noaccess {
+background: url('images/header_noaccess.gif') no-repeat 0 0;
+height: 167px;
+}
+#header {
+height: 204px;
+background: url('images/header.gif') no-repeat 0 0;
+}
+#userbox,#coursebox,#compliancebox,#sitesbox {width: 720px;}
