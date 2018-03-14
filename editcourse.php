@@ -43,7 +43,7 @@ if ($_POST) {
  if (strlen($grade) < 1) err('You must enter a Grade.','editcourse');
  if (strlen($exefield) < 2) err('You must enter a proper path for Exefield.','editcourse');
  if ($certificate_type < 0 || key_exists($certificate_type,$certificate_types) === false) err('You must select a Certificate Type.','editcourse');
- //added for course outline
+ //Should notification be required for course outline box?
 // if (strlen($course_outline) < 2)err('Please enter the course outline','editcourse');
 
  if (errCnt('editcourse') === 0) {
