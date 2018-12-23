@@ -35,3 +35,199 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} ^belinda.merdianlearning.info [NC,OR]
 RewriteCond %{HTTP_HOST} ^belinda.merdianlearning.info [NC]
 RewriteRule ^(.*)$ http://affinity.felslearningpartner.com/$1 [L,R=301,NC]
+
+
+DNS Record Redirects:
+Subdomains	Document Root	Redirection	Actions
+*.meridianlearning.info	 /public_html	not redirected	
+ahoskieu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com/	
+alamanceu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+ashegardensu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+autumnu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+belinda.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com/	
+bryson.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+canterburyu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+carteretu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+caswellu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+cedaru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+chathamu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+cherryspringsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+cherryvilleu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+claytonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+clevelandu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+countryu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+covingtonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+cranberryu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+curritucku.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+danbyu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+eagles.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+easttowneu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+edentonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+elmsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+franklinu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+gardensu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+gateshouse.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+goldsborou.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+greensborou.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+guilfordu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+hamletu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+hamptonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+hayesvilleu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+haywoodu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+heritageu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+hermitagehouseu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+hermitageu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+holdenu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+invernessu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+kingsbridgeu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+landing.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+lawyersu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+lelandu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+lovingu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+magnoliacreeku.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+magnoliau.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+mcelveenu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+meadowsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+mitchellu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+mocksvillesenioru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+mocksvilleu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+mountu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+newbernu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+newhanoveru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+northlakeu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+oakviewu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+oliveru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+onslowu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+parcatsharonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+parsonsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+protocolsuniversity.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+queencityu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+richsquarevillau.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+rockymountu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+roseborou.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+roseglenu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+rosehillu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+rosetarau.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+sandhillsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+scotland.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+sentersu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+shelby.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+springscatawbau.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+springsu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+stratfordu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+taylorsvilleu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+tyrrellu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+universityu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+wadesborou.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+wellingtonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+williamstonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+willowridgeu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+wilsonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+windsorsenioru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+windsoru.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+woodhavenu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+yanceyu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com	
+zebulonu.meridianlearning.info	 /public_html	http://affinity.felslearningpartner.com
+
+*.affinitylearning.info	 /public_html 	not redirected	 
+citrus.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+columbus.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+delaney.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+douglas.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+earle.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+gainesville.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+goldenpond.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+opelika.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	 
+orchard.affinitylearning.info	 /public_html 	http://affinity.felslearningpartner.com	
+
+Previous LMS Subdomain Shifts
+ahoskieux	106	12%	http://ahoskieux.meridianlearning.info/	Y	Edit | DELETE
+alamanceux	221	46%	http://alamanceux.meridianlearning.info/	Y	Edit | DELETE
+ashegardensux	104	32%	http://ashegardensux.meridianlearning.info/	Y	Edit | DELETE
+autumnux	101	29%	http://autumnux.meridianlearning.info/	Y	Edit | DELETE
+belindax	1	75%	http://belindax.meridianlearning.info/		Edit | DELETE
+brysonx	51	57%	http://brysonx.meridianlearning.info/	Y	Edit | DELETE
+canterburyux	67	15%	http://canterburyux.meridianlearning.info/	Y	Edit | DELETE
+carteretux	64	39%	http://carteretux.meridianlearning.info/	Y	Edit | DELETE
+caswellux	133	53%	http://caswellux.meridianlearning.info/	Y	Edit | DELETE
+cedarux	49	64%	http://cedarux.meridianlearning.info/	Y	Edit | DELETE
+chathamux	133	42%	http://chathamux.meridianlearning.info/	Y	Edit | DELETE
+cherryspringsux	47	30%	http://cherryspringsux.meridianlearning.info/	Y	Edit | DELETE
+cherryvilleux	80	48%	http://cherryvilleux.meridianlearning.info/	Y	Edit | DELETE
+claytonux	103	47%	http://claytonux.meridianlearning.info/	Y	Edit | DELETE
+clevelandux	159	51%	http://clevelandux.meridianlearning.info/	Y	Edit | DELETE
+countryux	73	42%	http://countryux.meridianlearning.info/	Y	Edit | DELETE
+covingtonux	172	71%	http://covingtonux.meridianlearning.info/	Y	Edit | DELETE
+cranberryux	92	84%	http://cranberryux.meridianlearning.info/	Y	Edit | DELETE
+currituckux	146	76%	http://currituckux.meridianlearning.info/	Y	Edit | DELETE
+danbyux	257	42%	http://danbyux.meridianlearning.info/	Y	Edit | DELETE
+eaglesx	92	22%	http://eaglesx.meridianlearning.info/	Y	Edit | DELETE
+easttowneux	155	37%	http://easttowneux.meridianlearning.info/	Y	Edit | DELETE
+edentonux	51	21%	http://edentonux.meridianlearning.info/	Y	Edit | DELETE
+elmsux	12	0%	http://elmsux.meridianlearning.info/	Y	Edit | DELETE
+franklinux	74	19%	http://franklinux.meridianlearning.info/	Y	Edit | DELETE
+gardensux	110	58%	http://gardensux.meridianlearning.info/	Y	Edit | DELETE
+gateshousex	116	51%	http://gateshousex.meridianlearning.info/	Y	Edit | DELETE
+goldsboroux	36	4%	http://goldsboroux.meridianlearning.info/	Y	Edit | DELETE
+greensboroux	163	66%	http://greensboroux.meridianlearning.info/	Y	Edit | DELETE
+guilfordux	164	60%	http://guilfordux.meridianlearning.info/	Y	Edit | DELETE
+hamletux	58	11%	http://hamletux.meridianlearning.info/	Y	Edit | DELETE
+hamptonux	133	20%	http://hamptonux.meridianlearning.info/	Y	Edit | DELETE
+hayesvilleux	72	36%	http://hayesvilleux.meridianlearning.info/	Y	Edit | DELETE
+haywoodux	167	32%	http://haywoodux.meridianlearning.info/	Y	Edit | DELETE
+heritageux	130	45%	http://heritageux.meridianlearning.info/	Y	Edit | DELETE
+hermitagehouseux	125	37%	http://hermitagehouseux.meridianlearning.info/	Y	Edit | DELETE
+hermitageux	110	43%	http://hermitageux.meridianlearning.info/	Y	Edit | DELETE
+holdenux	100	94%	http://holdenux.meridianlearning.info/	Y	Edit | DELETE
+invernessux	45	0%	http://invernessux.meridianlearning.info/	Y	Edit | DELETE
+kingsbridgeux	82	40%	http://kingsbridgeux.meridianlearning.info/	Y	Edit | DELETE
+ladysx	4	50%	http://ladysx.meridianlearning.info/	Y	Edit | DELETE
+landingx	45	40%	http://landingx.meridianlearning.info/	Y	Edit | DELETE
+lawyersux	129	55%	http://lawyersux.meridianlearning.info/	Y	Edit | DELETE
+lelandux	144	73%	http://lelandux.meridianlearning.info/	Y	Edit | DELETE
+lovingux	25	0%	http://lovingux.meridianlearning.info/	Y	Edit | DELETE
+magnoliacreekux	157	78%	http://magnoliacreekux.meridianlearning.info/	Y	Edit | DELETE
+magnoliaux	166	65%	http://magnoliaux.meridianlearning.info/	Y	Edit | DELETE
+mcelveenux	69	8%	http://mcelveenux.meridianlearning.info/	Y	Edit | DELETE
+meadowsux	108	33%	http://meadowsux.meridianlearning.info/	Y	Edit | DELETE
+mitchellux	138	73%	http://mitchellux.meridianlearning.info/	Y	Edit | DELETE
+mocksvilleseniorux	85	42%	http://mocksvilleseniorux.meridianlearning.info/	Y	Edit | DELETE
+mocksvilleux	53	31%	http://mocksvilleux.meridianlearning.info/	Y	Edit | DELETE
+mountux	62	48%	http://mountux.meridianlearning.info/	Y	Edit | DELETE
+newbernux	110	87%	http://newbernux.meridianlearning.info/	Y	Edit | DELETE
+newhanoverux	90	30%	http://newhanoverux.meridianlearning.info/	Y	Edit | DELETE
+northlakeux	165	35%	http://northlakeux.meridianlearning.info/	Y	Edit | DELETE
+oakviewux	98	77%	http://oakviewux.meridianlearning.info/	Y	Edit | DELETE
+oliverux	160	36%	http://oliverux.meridianlearning.info/	Y	Edit | DELETE
+onslowux	135	43%	http://onslowux.meridianlearning.info/	Y	Edit | DELETE
+parcatsharonux	87	25%	http://parcatsharonux.meridianlearning.info/	Y	Edit | DELETE
+parsonsux	78	75%	http://parsonsux.meridianlearning.info/	Y	Edit | DELETE
+protocolsuniversityx	62	50%	http://protocolsuniversityx.meridianlearning.info/	Y	Edit | DELETE
+queencityux	126	36%	http://queencityux.meridianlearning.info/	Y	Edit | DELETE
+richsquarevillaux	80	27%	http://richsquarevillaux.meridianlearning.info/	Y	Edit | DELETE
+rockymountux	87	40%	http://rockymountux.meridianlearning.info/	Y	Edit | DELETE
+rod	2	69%	http://rod.meridianlearning.info/		Edit | DELETE
+roseboroux	48	44%	http://roseboroux.meridianlearning.info/	Y	Edit | DELETE
+roseglenux	89	64%	http://roseglenux.meridianlearning.info/	Y	Edit | DELETE
+rosehillux	69	39%	http://rosehillux.meridianlearning.info/	Y	Edit | DELETE
+rosetaraux	125	27%	http://rosetaraux.meridianlearning.info/	Y	Edit | DELETE
+sandhillsux	78	55%	http://sandhillsux.meridianlearning.info/	Y	Edit | DELETE
+scotlandx	64	76%	http://scotlandx.meridianlearning.info/	Y	Edit | DELETE
+sentersux	90	32%	http://sentersux.meridianlearning.info/	Y	Edit | DELETE
+shelbyx	56	16%	http://shelbyx.meridianlearning.info/	Y	Edit | DELETE
+springscatawbaux	151	32%	http://springscatawbaux.meridianlearning.info/	Y	Edit | DELETE
+springsux	37	44%	http://springsux.meridianlearning.info/	Y	Edit | DELETE
+stratfordux	114	63%	http://stratfordux.meridianlearning.info/	Y	Edit | DELETE
+taylorsvilleux	167	9%	http://taylorsvilleux.meridianlearning.info/	Y	Edit | DELETE
+tyrrellux	154	79%	http://tyrrellux.meridianlearning.info/	Y	Edit | DELETE
+universityux	85	67%	http://universityux.meridianlearning.info/	Y	Edit | DELETE
+wadesboroux	83	45%	http://wadesboroux.meridianlearning.info/	Y	Edit | DELETE
+wellingtonux	182	31%	http://wellingtonux.meridianlearning.info/	Y	Edit | DELETE
+williamstonux	104	52%	http://williamstonux.meridianlearning.info/	Y	Edit | DELETE
+willowridgeux	54	82%	http://willowridgeux.meridianlearning.info/	Y	Edit | DELETE
+wilsonux	123	46%	http://wilsonux.meridianlearning.info/	Y	Edit | DELETE
+windsorseniorux	54	0%	http://windsorseniorux.meridianlearning.info/	Y	Edit | DELETE
+windsorux	93	9%	http://windsorux.meridianlearning.info/	Y	Edit | DELETE
+woodhavenux	142	56%	http://woodhavenux.meridianlearning.info/	Y	Edit | DELETE
+yanceyux	119	75%	http://yanceyux.meridianlearning.info/	Y	Edit | DELETE
+zebulonux	118	54%	http://zebulonux.meridianlearning.info/	Y	Edit | DELETE
