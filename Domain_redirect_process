@@ -8,14 +8,30 @@ Cpanel:
   
 2. Create
 
-3. Edit the Manage redirect
-  apply new URL https://affinity.felslearningpartner.com
+3. Add Redirect
+  Type: Permanent (301)
+  Select the domain that was setup prior
+  /: public_html
+  redirects to: http://affinity.felslearningpartner.com
+
+~~3. Edit the Manage redirect~~
+ ~~ apply new URL https://affinity.felslearningpartner.com~~
   
-Edit .htaccess (public_html)
-      RewriteEngine on
-      RewriteCond %{HTTP_HOST} ^example.com [NC,OR]
-      RewriteCond %{HTTP_HOST} ^www.example.com [NC]
-      RewriteRule ^(.*)$ http://example.net/$1 [L,R=301,NC]
-      You will only paste the code in .htaccess and change the example.com(windsorsenioru.merdianlearning.info) to example.net(affinity.felslearningpartner.com)
-      you could use this link for reference:
-      https://linchpinseo.com/htaccess-rules/
+~~Edit .htaccess (public_html)~~
+      ~~RewriteEngine on~~
+     ~~ RewriteCond %{HTTP_HOST} ^example.com [NC,OR]~~
+      ~~RewriteCond %{HTTP_HOST} ^www.example.com [NC]~~
+      ~~RewriteRule ^(.*)$ http://example.net/$1 [L,R=301,NC]~~
+      ~~You will only paste the code in .htaccess and change the example.com(windsorsenioru.merdianlearning.info) to example.net(affinity.felslearningpartner.com)~~
+      ~~you could use this link for reference:~~
+      ~~https://linchpinseo.com/htaccess-rules/~~
+
+
+Previous.htaccess
+RewriteOptions inherit
+
+Current.htaccess
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^belinda.merdianlearning.info [NC,OR]
+RewriteCond %{HTTP_HOST} ^belinda.merdianlearning.info [NC]
+RewriteRule ^(.*)$ http://affinity.felslearningpartner.com/$1 [L,R=301,NC]
