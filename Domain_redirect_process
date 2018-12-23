@@ -1,0 +1,21 @@
+subdomain need to be managed at the Cpanel level, not WHM. redirects process as followsL
+
+Cpanel: 
+1. create the subdoamin
+  subdomain: example
+  Domain: meridianlearning.info
+  Document root: /public_html
+  
+2. Create
+
+3. Edit the Manage redirect
+  apply new URL https://affinity.felslearningpartner.com
+  
+Edit .htaccess (public_html)
+      RewriteEngine on
+      RewriteCond %{HTTP_HOST} ^example.com [NC,OR]
+      RewriteCond %{HTTP_HOST} ^www.example.com [NC]
+      RewriteRule ^(.*)$ http://example.net/$1 [L,R=301,NC]
+      You will only paste the code in .htaccess and change the example.com(windsorsenioru.merdianlearning.info) to example.net(affinity.felslearningpartner.com)
+      you could use this link for reference:
+      https://linchpinseo.com/htaccess-rules/
