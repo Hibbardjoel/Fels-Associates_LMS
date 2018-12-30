@@ -1,4 +1,6 @@
+
 Kerr Course Comparison 2018/2019
+
 |2019|2018|
 |------------------:|---------------------:|
 | No courses added|No courses changes|
@@ -12,5 +14,5 @@ Avendelle Course Comparison 2018/2019
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDkwNDAwNl19
+eyJoaXN0b3J5IjpbLTEwMDc4NzEwNiwtNTQ0OTA0MDA2XX0=
 -->
