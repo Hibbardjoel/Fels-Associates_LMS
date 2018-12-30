@@ -25,13 +25,19 @@ BMS Course Comparison 2018/2019
 | MAI101|No courses changes|
 | MAI102|No courses changes|
 | MAI103|No courses changes|
+| MCF106|No courses changes|
+| SDV101|No courses changes|
+| SDV102|No courses changes|
+| SDV104|No courses changes|
 | ASA105|No courses changes|
 | ASA105|No courses changes|
 | ASA105|No courses changes|
+| ASA105|No courses changes|
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MTQ0ODc1LDI2ODE4OTU3MSwtMTAwNz
-g3MTA2LC01NDQ5MDQwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDAyNzgzMDYsNTE0MTQ0ODc1LDI2OD
+E4OTU3MSwtMTAwNzg3MTA2LC01NDQ5MDQwMDZdfQ==
 -->
