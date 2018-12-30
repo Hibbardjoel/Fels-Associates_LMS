@@ -1,7 +1,7 @@
 Kerr Course Comparison 2018/2019
 
 |2019|2018|
-|--_|--|
+|------------------:|---------------------:|
 | AAM103-LInstruc
 
 AAU104-LInstruc
@@ -241,5 +241,5 @@ MEDAD10-04-MdOd |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgzNjUyMDNdfQ==
+eyJoaXN0b3J5IjpbLTI5MTI2MzQ4OV19
 -->
