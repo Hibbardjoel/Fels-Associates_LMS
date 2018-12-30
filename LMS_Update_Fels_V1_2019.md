@@ -1,9 +1,89 @@
 
-| 2019 |  201|
+| 2019 |  2018|
 |--|--|
-|  |  |
+|  | AAM103-LInstruc
+
+AAU104-LInstruc
+
+ACC105-PhyRstnt
+
+AIN201-Infect
+
+AIN202-Norovir
+
+AIN203-UnivPrec
+
+AIN204-Risk
+
+AIN205-ClntSfy
+
+AIN206-Disnfect
+
+AIN207-Cleaning
+
+AIN208-Flu
+
+AIN209-Diabetes
+
+ASO104-Drug-Al
+
+CAR203-ResRight
+
+CAR204-HIPAA
+
+DHS101-CofI
+
+DHS102-StndPt
+
+DHS103-TBP
+
+DHS104-BloodB
+
+DHS109-NwEmpICP
+
+KHS112-Hyper
+
+KHS113-Asthma
+
+KHS114-COPD
+
+KHS115-Epilepsy
+
+KHS116-MRSA
+
+MED00-5-Instructor
+
+MED303-Insulin
+
+MED304-Admin
+
+MED401-Coumadin
+
+MED403-SlidScal
+
+MED406-Glucose
+
+MEDAD05-0-PrSkl
+
+MEDAD05-1-Terms
+
+MEDAD05-2-Order
+
+MEDAD05-3-MedAm
+
+MEDAD05-4-MedSp
+
+MEDAD05-5-Check
+
+MEDAD10-01-InMd
+
+MEDAD10-02-Legl
+
+MEDAD10-03-MdOv
+
+MEDAD10-04-MdOd |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM1NDcwMzNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDk3NzEwMTFdfQ==
 -->
