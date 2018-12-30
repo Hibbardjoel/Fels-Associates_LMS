@@ -10,6 +10,7 @@ Avendelle Course Comparison 2018/2019
 |------------------:|---------------------:|
 | No courses added|No courses changes|
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE3NzM5MDQsMTAzNjUyMTExN119
+eyJoaXN0b3J5IjpbMTk5MTMzODMzNCwxMDM2NTIxMTE3XX0=
 -->
