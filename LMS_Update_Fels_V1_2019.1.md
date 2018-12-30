@@ -23,8 +23,8 @@ BMS Course Comparison 2018/2019
 | DHS118|No courses changes|
 | ECS101|No courses changes|
 | MAI101|No courses changes|
-| ASA105|No courses changes|
-| ASA105|No courses changes|
+| MAI102|No courses changes|
+| MAI103|No courses changes|
 | ASA105|No courses changes|
 | ASA105|No courses changes|
 | ASA105|No courses changes|
@@ -32,6 +32,6 @@ BMS Course Comparison 2018/2019
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA4MzMwMzAsMjY4MTg5NTcxLC0xMD
-A3ODcxMDYsLTU0NDkwNDAwNl19
+eyJoaXN0b3J5IjpbNTE0MTQ0ODc1LDI2ODE4OTU3MSwtMTAwNz
+g3MTA2LC01NDQ5MDQwMDZdfQ==
 -->
