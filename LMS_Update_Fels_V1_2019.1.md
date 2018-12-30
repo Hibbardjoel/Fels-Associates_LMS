@@ -1,20 +1,20 @@
 
 Kerr Course Comparison 2018/2019
 
-|2019|2018|
+|2019 added|2018 removed|
 |------------------:|---------------------:|
 | No courses added|No courses changes|
 
 
 Avendelle Course Comparison 2018/2019
 
-|2019|2018|
+|2019 added|2018 removed|
 |------------------:|---------------------:|
 | No courses added|No courses changes|
 
 BMS Course Comparison 2018/2019
 
-|2019|2018|
+|2019 added|2018 removed|
 |------------------:|---------------------:|
 | ASA105|SEM103|
 | ASO105|SEM105|
@@ -36,6 +36,6 @@ BMS Course Comparison 2018/2019
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM0MzUxNzgsNTE0MTQ0ODc1LDI2OD
-E4OTU3MSwtMTAwNzg3MTA2LC01NDQ5MDQwMDZdfQ==
+eyJoaXN0b3J5IjpbLTY1NzkxNDU3MCw1MTQxNDQ4NzUsMjY4MT
+g5NTcxLC0xMDA3ODcxMDYsLTU0NDkwNDAwNl19
 -->
