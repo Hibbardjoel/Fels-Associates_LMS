@@ -1,14 +1,14 @@
 
 Kerr Course Comparison 2018/2019
 
-|2019 added|2018 removed|
+|2019|2018 added|2018 removed|
 |------------------:|---------------------:|
 | No courses added|No courses changes|
 
 
 Avendelle Course Comparison 2018/2019
 
-|2019 added|2018 removed|
+|2019|2018 added|2018 removed|
 |------------------:|---------------------:|
 | No courses added|No courses changes|
 
@@ -36,5 +36,5 @@ BMS Course Comparison 2018/2019
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzkxNDU3MF19
+eyJoaXN0b3J5IjpbLTIxMjMzMzcwMzIsLTY1NzkxNDU3MF19
 -->
